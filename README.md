@@ -1,4 +1,4 @@
-# Title: Data-Analysis-of-Indian-Food
+# Title: Data Analysis of Indian Food
 
 The dataset consists of about 255 Indian dishes and 9 columns associated with each of them.
 
